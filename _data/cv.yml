@@ -28,10 +28,15 @@
   contents:
     - title: Phd Student
       institution: Institute of Astronomy, KU Leuven
-      year: 2021-now
+      year: 2021-2025
       description:
         - Working on the numerical implementation of radiative transfer.
         - "Goal: To enable line radiative cooling in (M)HD simulations of stars, with uncertainties."
+    - title: Postdoctoral Researcher
+      institution: Institute of Astronomy, KU Leuven
+      year: 2025-now
+      description:
+        - Implementing and optimizing radiative transfer methods for massive stars
 
 - title: Open Source Projects
   type: time_table
