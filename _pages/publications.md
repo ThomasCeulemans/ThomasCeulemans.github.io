@@ -17,7 +17,7 @@ sitemap: true
 
 <br>
 
-<h1>papers</h1>
+<h1>Papers</h1>
 
 
 {%- for y in page.pub_years %}
