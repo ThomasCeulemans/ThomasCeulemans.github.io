@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 sitemap: true
 ---
 
-I am Thomas Ceulemans, a Phd student in the group lead by [Prof. Leen Decin](https://fys.kuleuven.be/ster/staff/senior-staff/leen-decin) at the [Institute of Astronomy](https://fys.kuleuven.be/ster) at [KU Leuven](https://www.kuleuven.be/kuleuven/).
+I am Thomas Ceulemans, a postdoctoral researcher in the group lead by [Prof. Jon Sundqvist](https://fys.kuleuven.be/ster/staff/senior-staff/JonSundqvist) at the [Institute of Astronomy](https://fys.kuleuven.be/ster) at [KU Leuven](https://www.kuleuven.be/kuleuven/).
 
-Before starting my Phd, I obtained Bachelor's degrees in Mathematics and Physics and a Master's in Mathematics at [KU Leuven](https://www.kuleuven.be/kuleuven/).
+Before starting my Phd, I obtained Bachelor's degrees in Mathematics and Physics and a Master's in Mathematics at [KU Leuven](https://www.kuleuven.be/kuleuven/). Afterwards, I did my PhD at KU Leuven on the topic of radiative transfer in the AGB environment.
 
-My research interests lie in the field of applied numerical mathematics, in particular on how to compute radiative transfer efficiently. I am currently contributing to the development of the open-source radiative transfer library [Magritte](https://github.com/Magritte-code/Magritte).
+My research interests lie in the field of applied numerical mathematics, in particular on how to compute radiative transfer efficiently. I am the current maintainer of the open-source radiative transfer library [Magritte](https://github.com/Magritte-code/Magritte).

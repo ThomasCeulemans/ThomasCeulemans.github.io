@@ -12,6 +12,11 @@ sitemap: true
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<h1>PhD Thesis</h1>
+{% bibliography -f thesis -q @*[year={{2025}}]* %}
+
+<br>
+
 <h1>papers</h1>
 
 
