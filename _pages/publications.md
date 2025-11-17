@@ -26,7 +26,7 @@ sitemap: true
 {% endfor %}
 
 <br>
-<h1>talks</h1>
+<h1>Talks</h1>
 
 {%- for y in page.talk_years %}
   <h2 class="year">{{y}}</h2>
@@ -34,7 +34,7 @@ sitemap: true
 {% endfor %}
 
 <br>
-<h1>posters</h1>
+<h1>Posters</h1>
 
 {%- for y in page.talk_years %}
   <h2 class="year">{{y}}</h2>
