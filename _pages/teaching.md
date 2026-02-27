@@ -32,5 +32,14 @@ teaching_yml: ../_data/teaching.yml
 </div>
 {% endif %}
 
+---
 
+## Projects
 
+{% if site.data.teaching.projects %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for course in site.data.teaching.projects %}
+    <br> {{course}} <br/>
+  {% endfor %}
+</div>
+{% endif %}
