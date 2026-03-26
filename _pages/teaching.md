@@ -34,11 +34,11 @@ teaching_yml: ../_data/teaching.yml
 
 ---
 
+{% if site.data.teaching.Projects %}
 ## Projects
 
-{% if site.data.teaching.projects %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for course in site.data.teaching.projects %}
+  {% for course in site.data.teaching.Projects %}
     <br> {{course}} <br/>
   {% endfor %}
 </div>
